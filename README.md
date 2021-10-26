@@ -3,7 +3,7 @@
 <div align="start">
   <a href="https://github.com/carlostkno">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=carlostkno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200"src="https://user-images.githubusercontent.com/86029609/135383490-d5b7d212-4998-42df-84b9-75159f965474.gif">
+  <img align="right" height="140"src="https://user-images.githubusercontent.com/86029609/135383490-d5b7d212-4998-42df-84b9-75159f965474.gif">
  </div>
 
   
